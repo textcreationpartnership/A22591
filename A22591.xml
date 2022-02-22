@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation for the better ordering of those who repaire to the court for their cure of the disease called, the kings euill.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22591</idno>
+            <idno type="STC">STC 9040</idno>
+            <idno type="STC">ESTC S123785</idno>
+            <idno type="EEBO-CITATION">33150391</idno>
+            <idno type="OCLC">ocm 33150391</idno>
+            <idno type="VID">28582</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28582)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1877:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation for the better ordering of those who repaire to the court for their cure of the disease called, the kings euill.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie: And by the Assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1635.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Arms with "C R" at top.</note>
+                  <note>"Giuen at Our Court at Oatlands, the eight and twentieth day of Iuly, in the eleuenth yeere of Our Reigne."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scrofula --  Early works to 1800.</term>
+               <term>Royal touch.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:28582:1"/>
+            <!-- PDF PAGE 17 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">¶ A Proclamation for the better ordering of thoſe who repaire to the Court for their cure of the Diſeaſe, called, <hi>The Kings Euill.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas by the grace and bleſsing of God, the Kings and Queenes of</hi> this Realme, by many ages paſt, haue had the happineſſe, by their ſa<g ref="char:EOLhyphen"/>cred touch and inuocation of the name of God, to cure thoſe who are af<g ref="char:EOLhyphen"/>flicted with the diſeaſe called <hi>The Kings Euill:</hi> And his now Maieſtly, in no leſſe meaſure then any of His Royall Predeceſſors, hath bad good ſuc<g ref="char:EOLhyphen"/>ceſſe therein: and in His moſt gracious and pious diſpoſition, is as ready and willing as any King or Queene of this Realme euer was, in any thing to relieue the diſtreſſes and neceſſities of His Subiects, Yet in His Princely wiſdome, foreſeeing that in this, (as in all other things) Order is to be obſerued, and fit times are neceſſary to be appointed for perfor<g ref="char:EOLhyphen"/>ming of this great worke of charity; His moſt Excellent Maieſtie doth hereby publiſh and declare his Royall will and Pleaſure to be, That whereas herefore the vſuall times of preſenting ſuch perſons to His Maieſtie for this purpoſe, were <hi>Eaſter</hi> and <hi>Whitſontide,</hi> That from henceforth the time ſhall be <hi>Eaſter</hi> and <hi>Michaelmas,</hi> as times more conuenient, both for the temperature of the ſeaſon, and in reſpect of any contagion which may happen in this neere acceſſe to His Maieſties ſacred Perſon. And His Maieſty doth accordingly will and Command, that from the time of publiſhing this Proclamation, none preſume to repaire to His Maieſties Royall Court, to be healed of that Diſeaſe, before that Feaſt of Saint <hi>Maichael</hi> now next comming: And His Ma<g ref="char:EOLhyphen"/>ieſtie doth further Will and Command, That all ſuch as hereafter ſhall come or repaire to the Court for this purpoſe, ſhall bring with them Certificates vnder the hands of the Parſon, Vicar or Mi<g ref="char:EOLhyphen"/>niſter, and Church-wardens of theſe ſeuerall Pariſhes where they dwell, and vnder the hands and ſeales of one or more Iuſtices of the Peace for that County from whence they come, teſtifying ac<g ref="char:EOLhyphen"/>cording to the truth, That they haue not at any time before beene touched by the King, to the intent to be healed of that Diſeaſe. And His Maieſty doth ſtraightly charge all Iuſtices of the Peace, Conſtables, and other Officers, That they doe not ſuffer any to paſſe, but ſuch as haue ſuch Cer<g ref="char:EOLhyphen"/>tificates, vpon paine of His Maieſties diſpleaſure. And to the end that all His louing Subiects may the better take knowledge of this His Maieſties Pleaſure and Command, His Will is, That this Proclamation be publiſhed and affixed in ſome open place in euery Market Towne of this Realme, and be read in euery Church twice a yeare, that is to ſay, at <hi>Shrouetide</hi> and <hi>Bartholomewtide,</hi> where<g ref="char:EOLhyphen"/>by the people may not pretend ignorance of His Maiefties pleaſure.</p>
+            <closer>
+               <dateline>Giuen at Our Court at Oatlands, <date>the eight and twentieth day of Iuly, in the eluenth yeere of Our Reigne.</date>
+               </dateline>
+               <lb/>
+God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by ROBERT BARKER, Printer to the Kings moſt Excellent Maieſty: And by the Aſsignes of IOHN Bill. 1635.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
